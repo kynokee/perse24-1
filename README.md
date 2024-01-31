@@ -42,7 +42,7 @@ Submit your GitHub (public) repo link (using pull request) to this page by the e
 - CHUA NIAN HENG JOHNATHAN
 - CHUA WEI JIE THURSTON
 - GOY SZE LENG ELIZA
-- JAMES NATHAN NORA
+- JAMES NATHAN NORA https://github.com/kynokee/perse24
 - LI RUIXIN
 - LIW YUI HENG
 - MARGARET CHEN PERALTA
